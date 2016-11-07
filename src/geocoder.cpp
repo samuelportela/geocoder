@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <string>
 #include <stdio.h>
+#include <curl/curl.h>
 
 using namespace std;
 
